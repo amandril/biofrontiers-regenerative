@@ -1,5 +1,8 @@
 /* Style for the BioFrontiers Regenerative Biology single page site */
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,800');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,800');
+
 html,
 body {
   font-size: 20px;
