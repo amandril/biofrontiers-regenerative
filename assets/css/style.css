@@ -1,7 +1,7 @@
 /* Style for the BioFrontiers Regenerative Biology single page site */
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,800');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,800');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
 
 html,
 body {
@@ -57,7 +57,7 @@ section#biof-building {
   background-color: #222;
   font-family: "roboto condensed";
   font-size: 5em;
-  font-weight: 800;
+  font-weight: 700;
   text-transform: uppercase;
   line-height: 1em;
   color: #ffffff;
@@ -130,7 +130,7 @@ section#biof-5-moreresources {
   text-align: center;
   padding-bottom: 50px;
   color: #ffffff;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .nav-block-1 {
@@ -187,7 +187,7 @@ section#biof-5-moreresources {
   position: absolute;
   bottom: 0;
   font-size: 10em;
-  font-weight: 800;
+  font-weight: 700;
   color: #ffffff;
 }
 .lab-box {
